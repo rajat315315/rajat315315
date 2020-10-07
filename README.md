@@ -6,16 +6,16 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on phpMyAdmin
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on Mozilla
-- 🤔 I’m looking for help with Go
+- 🔭 I’m currently working on <b>phpMyAdmin</b>
+- 🌱 I’m currently learning <b>Go</b>
+- 👯 I’m looking to collaborate on <b>Mozilla</b>
+- 🤔 I’m looking for help with <b>Go</b>
 - 💬 Ask me about PHP, Python
-- 📫 How to reach me: 8826028348
+- 📫 How to reach me: <b>8826028348</b>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like Sports
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rajat315315)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rajat315315)](https://github.com/rajat315315/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat315315&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat315315&layout=compact)](https://github.com/rajat315315/)
