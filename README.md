@@ -6,11 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on <b>phpMyAdmin</b>
-- 🌱 I’m currently learning <b>Go</b>
-- 👯 I’m looking to collaborate on <b>Mozilla</b>
-- 💬 Ask me about PHP, Python
-- 📫 How to reach me: <b>8826028348</b>
+- 💬 Ask me about PHP, Python, Golang
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like Table Tennis.
 
