@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 💬 Ask me about PHP, Python, Golang
+- 💬 Ask me about PHP, Python, Golang, C/C++, Java
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like Table Tennis.
+
+_This document is in progress...._
