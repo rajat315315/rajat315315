@@ -9,8 +9,12 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me about PHP, Python, Golang, C/C++, Java
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I like Table Tennis.
+
+## 📊 StackOverFlow Stats
+<div align="center">
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=4125116&theme=dark" alt="GitHub Stats" height="265"/>
+</div>
 
 ## 📊 GitHub Stats
 
