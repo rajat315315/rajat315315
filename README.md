@@ -1,7 +1,8 @@
 ### Hi there 👋
 <!-- Header Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=170&section=header&text=Rajat%20Jain&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Rajat Jain"/>
-![Metrics](/github-metrics.svg)
+
+![Metrics](github-metrics.svg)
 <!--
 **rajat315315/rajat315315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
